@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on (Storage | Systems | Linux | Dockers | Cloud | LLM | Auto triage )
+- 🌱 I’m currently learning (Cloud | LLM | System Design)
+- 👯 I’m looking to collaborate on DIY Projects
+- 🤔 I’m looking for help with LLM leveraged ideas
+- 💬 Ask me about anything thats Linux | Tech related
+- ⚡ Fun fact: Built a drone, apartment visitor management app, auto-triage tool  
+
 <!--
 **trohit/trohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
